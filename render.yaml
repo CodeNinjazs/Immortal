@@ -1,0 +1,5 @@
+services:
+  - type: static
+    name: immortal-static-site
+    env: static
+    staticPublishPath: ./static/public
